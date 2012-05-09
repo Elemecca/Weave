@@ -1,4 +1,13 @@
 #!/usr/bin/env perl
+#
+# weave.pl - overlays multiple directories into one with symlinks
+#
+# Originally written by Sam Hanes <sam@maltera.com>. 
+# To the extent possible under law, the author has waived all copyright
+# and related or neighboring rights in this work, which was originally
+# published in the Unted States. Attribution is appreciated but not
+# required. The complete legal text of the release is available at
+# http://creativecommons.org/publicdomain/zero/1.0/
 
 use strict;
 use warnings;
